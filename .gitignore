@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Local MLflow / ZenML state
+mlruns/
+mlartifacts/
+.zen/
+
+# Scratch
+tempCodeRunnerFile*
